@@ -3,7 +3,7 @@ Passwortgenerator, der gleichzeitig Vorhersagbarkeit und Zufälligkeit versprich
 
 # Passwort Generator
 
-Ein einfacher Passwortgenerator in React, der zufällige Passwörter basierend auf verschiedenen Kriterien generiert.
+Ein Passwortgenerator in React, der zufällige Passwörter basierend auf verschiedenen Kriterien generiert.
 
 ## Funktionen
 
@@ -21,7 +21,7 @@ Ein einfacher Passwortgenerator in React, der zufällige Passwörter basierend a
 
 # Password generator
 
-A simple password generator in React that generates random passwords based on various criteria.
+A password generator in React that generates random passwords based on various criteria.
 
 ## Features
 
