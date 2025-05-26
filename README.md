@@ -14,7 +14,7 @@ Ein Passwortgenerator in React, der zufällige Passwörter basierend auf verschi
 
 ## Installation
 
-1.  Clone das Repository: `git clone https://github.com/dein-benutzername/passwort-generator.git`
+1.  Clone das Repository: `git clone https://github.com/MIGZnumberONE/passwort-generator.git`
 2.  Installiere die Abhängigkeiten: `npm install`
 3.  Starte die Entwicklungsumgebung: `npm start`
 
@@ -32,6 +32,6 @@ A password generator in React that generates random passwords based on various c
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/password-generator.git`
+1. Clone the repository: `git clone https://github.com/MIGZnumberONE/password-generator.git`
 2. Install the dependencies: `npm install`
 3. Start the development environment: `npm start`
